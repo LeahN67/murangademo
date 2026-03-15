@@ -67,7 +67,7 @@ st.markdown("""
 st.markdown("""
 <div class="hero-container">
     <h1 style="color: white; font-size: 2.5rem; font-weight: 800; margin: 0;">🌱 Murang'a County Carbon Empowerment Initiative</h1>
-    <p style="color: rgba(255,255,255,0.9); font-size: 1.25rem; margin-top: 0.75rem;">Turning Climate-Smart Farming into Sustainable Income for 57,975 Farmers</p>
+    <p style="color: rgba(255,255,255,0.9); font-size: 1.25rem; margin-top: 0.75rem;">Turning Climate-Smart Farming into Sustainable Income for Farmers</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -108,7 +108,7 @@ with tab1:
         with st.container():
             st.markdown("#### ✅ The Solution")
             st.markdown("""
-            GreenScope Platform automates carbon measurement using satellite data, 
+            GreenScope Analytics Platform automates carbon measurement using satellite data, 
             AI calculation, and bundles small farms into market-viable projects. 
             Revenue split: **70% farmer | 20% coop | 10% platform**.
             """)
